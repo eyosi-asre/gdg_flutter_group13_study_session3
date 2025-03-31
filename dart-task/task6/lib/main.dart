@@ -1,7 +1,4 @@
-// main.dart
 import 'package:flutter/material.dart';
-import 'package:task6/screen/loginscreen.dart';
-import 'package:task6/screen/signupscreen.dart';
 import 'package:task6/screen/loginscreen.dart';
 import 'package:task6/screen/signupscreen.dart';
 
@@ -20,7 +17,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/signup': (context) => SignUpScreen(),
         '/login': (context) => LoginScreen(),
-        '/home': (context) => Scaffold(body: Center(child: Text('Home Screen'))), // Placeholder
+        '/home': (context) => Scaffold(body: Center(child: Text('Home Screen'))),
       },
     );
   }

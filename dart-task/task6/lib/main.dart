@@ -1,9 +1,9 @@
 // main.dart
 import 'package:flutter/material.dart';
-import 'package:layout/screen/loginscreen.dart';
-import 'package:layout/screen/signupscreen.dart';
-import 'package:layout/screen/loginscreen.dart';
-import 'package:layout/screen/signupscreen.dart';
+import 'package:task6/screen/loginscreen.dart';
+import 'package:task6/screen/signupscreen.dart';
+import 'package:task6/screen/loginscreen.dart';
+import 'package:task6/screen/signupscreen.dart';
 
 
 void main() {
